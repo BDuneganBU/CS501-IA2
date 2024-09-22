@@ -1,0 +1,7 @@
+<Button xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/button"
+    android:layout_width="411dp"
+    android:layout_height="914dp"
+    android:backgroundTint="#A27CE7"
+    tools:text="Click Me" />
